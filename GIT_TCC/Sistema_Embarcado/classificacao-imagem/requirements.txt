@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pandas
+pickle-mixin
+scikit-image
+scikit-learn
+scipy 
